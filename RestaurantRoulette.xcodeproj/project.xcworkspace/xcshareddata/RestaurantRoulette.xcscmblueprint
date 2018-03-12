@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "65EB9F9C3658FC5EB93D74327A4BEAEC21FF8942",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "616F2E2A218756377401D10AFAA8DC6BDFE74E9E" : 9223372036854775807,
+    "65EB9F9C3658FC5EB93D74327A4BEAEC21FF8942" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B937A846-8123-420C-B6E6-D0794F30EB8E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "616F2E2A218756377401D10AFAA8DC6BDFE74E9E" : "..\/rr\/RestaurantRoulette",
+    "65EB9F9C3658FC5EB93D74327A4BEAEC21FF8942" : "Restaurant-Roulette\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RestaurantRoulette",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RestaurantRoulette.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jasondzheng\/RestaurantRoulette.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "616F2E2A218756377401D10AFAA8DC6BDFE74E9E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kevinlee6378\/Restaurant-Roulette.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65EB9F9C3658FC5EB93D74327A4BEAEC21FF8942"
+    }
+  ]
+}
